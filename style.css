@@ -222,6 +222,9 @@ i {
     }
 }
 @media (min-width:300px) and (max-width:600px) {
+    nav li a{
+        margin-top:10px 3px;
+    }
     .container {
         width: 100%;
         height: 70px;
@@ -322,6 +325,8 @@ i {
     .box-4 img {
         height: 180px;
         width: 180px;
+        margin-bottom:6px;
+        
     }
 
     
